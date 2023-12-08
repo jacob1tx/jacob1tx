@@ -13,6 +13,8 @@ Projects
 		* A Go-based Neo4j server
    		* An interactive Java client and text visualizer
   		* A Pharo Smalltalk graphic visualizer
+* [Hardware Database](https://github.com/jacob1tx/SoftHardware)
+	* A React web application for checking hardware sets in and out of a Mongo database. Backend written in Flask
 * [Personal Website](https://github.com/jacob1tx/jacob1tx.github.io)
 	* A simple page written in HTML
 
