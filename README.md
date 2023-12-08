@@ -4,4 +4,4 @@
 - 🏫 I'm an Electrical & Computer Engineering student at the University of Texas
 
 
-[Contribution guidelines for this project](../jacob1tx)
+[Contribution guidelines for this project](https://github.com/jacob1tx/pp-jgm3339)
