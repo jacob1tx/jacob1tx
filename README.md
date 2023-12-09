@@ -15,6 +15,8 @@ Projects
   		* A Pharo Smalltalk graphic visualizer
 * [Hardware Database](https://github.com/jacob1tx/SoftHardware)
 	* A React web application for checking hardware sets in and out of a Mongo database. Its backend is written in Flask.
+* [Bevo's Bazaar](https://github.com/jacob1tx/Bevo-s-Bazaar)
+	* An auction service written using JavaFX which supports multiple clients.
 * [Personal Website](https://github.com/jacob1tx/jacob1tx.github.io)
 	* A simple page written in HTML
 
