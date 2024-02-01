@@ -19,4 +19,3 @@ Projects
 	* An auction service written using JavaFX which supports multiple clients.
 * [Personal Website](https://github.com/jacob1tx/jacob1tx.github.io)
 	* A simple page written in HTML
-
