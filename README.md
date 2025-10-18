@@ -3,7 +3,6 @@ jacob1tx
 * 👋 Hi, I’m @jacob1tx
 * 🏫 I'm an Electrical & Computer Engineer who graduated in 2024 from The University of Texas at Austin
 * 👀 I’m interested in Software Development, DevOps, Data Science, & Automation
-* 🌱 I’m currently learning software engineering
 
 Projects
 --------
